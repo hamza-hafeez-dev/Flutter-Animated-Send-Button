@@ -6,7 +6,9 @@ When the **Send** button is pressed, the send icon smoothly slides to the right 
 
 ## Preview
 
-!Preview/Flutter Demo - Google Chrome 2026-09-25 01-06-50.mp4
+🎥 **Animation Demo**
+
+[Watch the Animation Video](Preview/Flutter%20Demo%20-%20Google%20Chrome%202026-09-25%2001-06-50.mp4)
 
 ## Features
 
